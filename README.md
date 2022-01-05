@@ -1,5 +1,22 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={sgwr-0113}
-)](https://github.com/anuraghazra/github-readme-stats)
+# プロフィール
+### 鉄道会社（2015.4~2020.3）
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={sgwr-0113})]
-(https://github.com/anuraghazra/github-readme-stats)
+### プログラミングスクールメンター（2020.4~2021.4）
+入社後に初めて学んだプログラミングに没頭し、受講生のポートフォリオを添削できる「最終課題メンター」に入社5ヶ月で昇格しました。
+2020年12月には月間対応件数全社1位を獲得。
+プライベートでも、エンジニアとの共同開発や起業の手伝いを通じて実践力を磨き続けました。
+身につけた技術で常識を破るプロダクトを開発し、より多くの人の人生に感動体験を与えていきたいと思っています。
+
+### 自社開発企業フロントエンジニア（2021.5~）
+
+
+# スキル
+- React
+- TypeScript
+- Ruby on Rails
+- HTML/CSS
+- JavaScript
+- Next.js
+- Golang
+- GraphQL
+
